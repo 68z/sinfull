@@ -26,7 +26,7 @@ method = """\033[91m
 """
 
 info = """
-[\033[91mSIN\033[00m] \033[91mMade By reaper, most credit goes to a freind of mines whom taught me python
+[\033[91mSIN\033[00m] \033[91mMade By AnonOps, most credit goes to a freind of mines whom taught me python
 Most/Everything im available to do today is mainly for that freind kicking me into it so big thanks.
 Bigest attack: 31.9 gbps
 """
